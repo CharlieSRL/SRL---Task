@@ -1,0 +1,14 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=DummyContentType
+StepName=Url: device-desc.xml
+Total=1
+FileName1=t1_0_device-desc.xml
+RequestHeaderFile=t1_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=1590775146172
+RawStepName=device-desc.xml
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1590775146068
+URL1=http://192.168.100.38:8008/ssdp/device-desc.xml

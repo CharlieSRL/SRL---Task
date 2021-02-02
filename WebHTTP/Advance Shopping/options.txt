@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\mcarlosa\Documents\VuGen\Scripts\Advance Shopping
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ec:\users\mcarlosa\documents\vugen\scripts\advance shopping\\logfile.log
+c:\users\mcarlosa\documents\vugen\scripts\advance shopping\\combined_Advance Shopping.c
+c:\users\mcarlosa\documents\vugen\scripts\advance shopping\\pre_cci.c

@@ -1,0 +1,16 @@
+[t2]
+SnapshotXmlFile=snapshot_2.xml
+ContentType=application/json
+StepName=Custom Request: token
+Total=2
+FileName1=t2.json
+FileName2=t1_0_device-desc.xml
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=1590775155590
+RawStepName=token
+RequestBodyFile=t2_RequestBody.txt
+RawStepStartTime=1590775155206
+URL1=https://www.googleapis.com/oauth2/v4/token
+URL2=http://192.168.100.38:8008/ssdp/device-desc.xml

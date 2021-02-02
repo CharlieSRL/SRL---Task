@@ -1,0 +1,17 @@
+[t26]
+FileName1=t26.html
+URL1=https://auth.grammarly.com/v3/user/oranonymous?app=chromeExt
+Total=4
+RequestHeaderFile=t26_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t26_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_26.xml
+FileName2=t26_client_model_v5_variation_0.html
+URL2=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb
+FileName3=t26_main.min.css
+URL3=https://www.advantageonlineshopping.com/css/main.min.css
+FileName4=t26_Down_arrow.svg
+URL4=https://www.advantageonlineshopping.com/css/images/Down_arrow.svg
+[ProtocolInfo]
+ProtocolId=QTWeb

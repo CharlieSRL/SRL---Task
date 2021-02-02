@@ -1,0 +1,15 @@
+[t30]
+FileName1=t30.xml
+URL1=https://www.advantageonlineshopping.com/accountservice/GetAccountConfigurationRequest
+Total=3
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=t30_RequestBody.txt
+ResponseHeaderFile=t30_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_30.xml
+FileName2=t30_Roboto-Light-webfont.html
+URL2=https://www.advantageonlineshopping.com/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff
+FileName3=t30_Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRI_CUci0YPRDWUuEgsN541ADhIAGgAiABILDc5BTHoSABoAIgASCw14bxIZEgAaACIAEgsNDxa-KxIAGgAiABoA.txt
+URL3=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRI_CUci0YPRDWUuEgsN541ADhIAGgAiABILDc5BTHoSABoAIgASCw14bxIZEgAaACIAEgsNDxa-KxIAGgAiABoA?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

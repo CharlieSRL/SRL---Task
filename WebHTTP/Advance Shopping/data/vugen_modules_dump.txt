@@ -1,0 +1,358 @@
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\vugen.exe
+		10.0.16299.611 (WinBuild.160101.0800)C:\windows\SYSTEM32\ntdll.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\MSCOREE.DLL
+		10.0.16299.1480 (WinBuild.160101.0800)C:\windows\System32\KERNEL32.dll
+		10.0.16299.1480 (WinBuild.160101.0800)C:\windows\System32\KERNELBASE.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\ADVAPI32.dll
+		7.0.16299.125 (WinBuild.160101.0800)C:\windows\System32\msvcrt.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\sechost.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\RPCRT4.dll
+		10.0.16299.755 (WinBuild.160101.0800)C:\windows\System32\SspiCli.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\CRYPTBASE.dll
+		10.0.16299.1331 (WinBuild.160101.0800)C:\windows\System32\bcryptPrimitives.dll
+		4.8.4018.0 built by: NET48REL1LAST_CC:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\SHLWAPI.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\combase.dll
+		10.0.16299.1059 (WinBuild.160101.0800)C:\windows\System32\ucrtbase.dll
+		10.0.16299.665 (WinBuild.160101.0800)C:\windows\System32\GDI32.dll
+		10.0.16299.1565 (WinBuild.160101.0800)C:\windows\System32\gdi32full.dll
+		10.0.16299.1059 (WinBuild.160101.0800)C:\windows\System32\msvcp_win.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\USER32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\win32u.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\IMM32.DLL
+		10.0.16299.492 (WinBuild.160101.0800)C:\windows\System32\kernel.appcore.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\VERSION.dll
+		4.8.4075.0 built by: NET48REL1LASTC:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+		14.10.25028.0 built by: VCTOOLSD15RTMC:\windows\SYSTEM32\VCRUNTIME140_CLR0400.dll
+		14.10.25028.0 built by: VCTOOLSD15RTMC:\windows\SYSTEM32\ucrtbase_clr0400.dll
+		4.8.4075.0 built by: NET48REL1LASTC:\windows\assembly\NativeImages_v4.0.30319_32\mscorlib\48544608ee1424c9c713d99c7a353349\mscorlib.ni.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\ole32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\uxtheme.dll
+		4.8.4075.0 built by: NET48REL1LASTC:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll
+		10.0.16299.1565 (WinBuild.160101.0800)C:\windows\System32\OLEAUT32.dll
+		4.8.4001.0 built by: NET48REL1LAST_CC:\windows\assembly\NativeImages_v4.0.30319_32\System\124abd65c903cefd0291acdc23aee0e8\System.ni.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\336df51dfd2206ad2d4fc8fcd8b85873\System.Drawing.ni.dll
+		4.8.4042.0 built by: NET48REL1LAST_CC:\windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\360599775cf3b150fe23855a9a2421dd\System.Windows.Forms.ni.dll
+		4.8.4110.0 built by: NET48REL1LAST_BC:\windows\assembly\NativeImages_v4.0.30319_32\System.Core\3b04051dea9bc5ecbad59f18470a9e51\System.Core.ni.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Servf73e6522#\4b6de4ebaedb460127d76db41608bb20\System.ServiceModel.Web.ni.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\CRYPTSP.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\rsaenh.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\bcrypt.dll
+		4.8.3928.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.ServiceModel\d6e523aca6ec84a8e0abfa0436f2e676\System.ServiceModel.ni.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\b6bd74e2c1864c7ce8c27a8140cfca59\System.Configuration.ni.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Xml\e997532c243e67f01320779f6c3090e5\System.Xml.ni.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\shell32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\cfgmgr32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\shcore.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\windows.storage.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\powrprof.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\profapi.dll
+		4.8.4110.0 built by: NET48REL1LAST_BC:\windows\assembly\NativeImages_v4.0.30319_32\WindowsBase\1b961b3f65290e807909eee8cb7b82b3\WindowsBase.ni.dll
+		4.8.4110.0 built by: NET48REL1LAST_BC:\windows\assembly\NativeImages_v4.0.30319_32\PresentationCore\af03760f447043cfd64d129531c32e33\PresentationCore.ni.dll
+		4.8.4110.0                    C:\windows\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#\a74e12dc3e7755c554fa8fabd55dc5ef\PresentationFramework.ni.dll
+		5.82 (WinBuild.160101.0800)   C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.16299.1685_none_3ee2e1aab91e8118\comctl32.dll
+		4.8.4110.0 built by: NET48REL1LAST_BC:\windows\assembly\NativeImages_v4.0.30319_32\System.Xaml\73a6d31bdaa8bfc4c5243a7bb12474a3\System.Xaml.ni.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\dwmapi.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\dwrite.dll
+		4.8.4110.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll
+		14.10.25028.0 built by: VCTOOLSD15RTMC:\windows\SYSTEM32\MSVCP140_CLR0400.dll
+		10.0.16299.1685 (WinBuild.160101.0800)C:\windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.16299.1685_none_8828cb2ac973fb2f\gdiplus.dll
+		4.8.4110.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\PresentationNative_v0400.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\MSCTF.dll
+		10.0.16299.726 (WinBuild.160101.0800)C:\windows\SYSTEM32\WindowsCodecs.dll
+		2001.12.10941.16384 (WinBuild.160101.0800)C:\windows\System32\clbcatq.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\RegistryUtil.dll
+		14.16.27033.0 built by: vcwrkspcC:\windows\SYSTEM32\VCRUNTIME140.dll
+		14.0.24215.1 built by: VCTOOLSD14ULDRC:\windows\SYSTEM32\mfc140.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\TextInputFramework.dll
+		10.0.16299.15                 C:\windows\System32\CoreMessaging.dll
+		10.0.16299.1685               C:\windows\System32\CoreUIComponents.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\ntmarta.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\wintypes.dll
+		6.10 (WinBuild.160101.0800)   C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_573dd8456ee18161\comctl32.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Numerics\9a35294eb6f5010fe2dd540dbe8e8d18\System.Numerics.ni.dll
+		4.8.3928.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Runteb92aa12#\37ed27eccdf37ee93a37a437f12cad8f\System.Runtime.Serialization.ni.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Xml.Linq\7a9d0aa1d356713272204e78bb165f68\System.Xml.Linq.ni.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Data\6f2d26b5731a8919a933f88bdc5125f1\System.Data.ni.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\WS2_32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\CRYPT32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\MSASN1.dll
+		11.00.16299.371 (WinBuild.160101.0800)C:\windows\SYSTEM32\urlmon.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\imagehlp.dll
+		11.00.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\iertutil.dll
+		11.00.16299.1653 (WinBuild.160101.0800)C:\windows\SYSTEM32\msiso.dll
+		7.0.16299.98 (WinBuild.160101.0800)C:\windows\SYSTEM32\PROPSYS.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Security\0ed0cfb7e40cf51ea3e104cc93c45e61\System.Security.ni.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\IconCodecService.dll
+		4.8.3928.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\WindowsForm0b574481#\296ab7e5a49d758a3f46c45011f7cbcb\WindowsFormsIntegration.ni.dll
+		10.0.16299.98 (WinBuild.160101.0800)C:\windows\SYSTEM32\d3d9.dll
+		23.20.16.5018                 C:\windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_65e812e45a6ecbef\igdumdim32.dll
+		23.20.16.5018                 C:\windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_65e812e45a6ecbef\igd9dxva32.dll
+		23.21.13.9176                 C:\windows\System32\DriverStore\FileRepository\nvbl.inf_amd64_b9fc217eedd6ed82\nvldumd.dll
+		10.0.16299.936 (WinBuild.160101.0800)C:\windows\System32\WINTRUST.DLL
+		23.21.13.9176                 C:\windows\System32\DriverStore\FileRepository\nvbl.inf_amd64_b9fc217eedd6ed82\nvd3dum.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\WINMM.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\WINMMBASE.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\Presentatioaec034ca#\c0af14e3447f311cc504a47f0f0bca49\PresentationFramework.Aero2.ni.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\mscms.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\USERENV.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\WindowsCodecsExt.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\dataexchange.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\dcomp.dll
+		10.0.16299.1419 (WinBuild.160101.0800)C:\windows\system32\d3d11.dll
+		10.0.16299.98 (WinBuild.160101.0800)C:\windows\system32\dxgi.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\twinapi.appcore.dll
+		10.0.16299.371 (WinBuild.160101.0800)C:\windows\system32\RMCLIENT.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\psapi.dll
+		4.8.4075.0 built by: NET48REL1LASTC:\windows\assembly\NativeImages_v4.0.30319_32\System.Web\e4ce273ad764320bbb33df72810a760f\System.Web.ni.dll
+		4.8.4075.0 built by: NET48REL1LASTC:\Windows\Microsoft.NET\Framework\v4.0.30319\webengine4.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\mswsock.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\sxs.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\snapshotloaderwrap.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\mosifs32.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\wrapicu.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\thrdutil.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\IPHLPAPI.DLL
+		55, 1, 0, 0                   C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\icuuc55.dll
+		55, 1, 0, 0                   C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\icudt55.dll
+		20.1.0.360                    C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\ViewerGen.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\atlthunk.dll
+		11.00.16299.820 (WinBuild.160101.0800)C:\Windows\System32\ieframe.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\NETAPI32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\WINHTTP.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\NETUTILS.DLL
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\WKSCLI.DLL
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\appresolver.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\elscore.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\SLC.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\Bcp47Langs.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\sppc.dll
+		11.00.16299.431 (WinBuild.160101.0800)C:\Windows\System32\mshtml.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\LINKINFO.dll
+		10.0.16299.1004 (WinBuild.160101.0800)C:\windows\SYSTEM32\CLDAPI.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\FLTLIB.DLL
+		10.0.18362.1023 (WinBuild.160101.0800)C:\windows\SYSTEM32\AEPIC.dll
+		11.00.16299.15 (WinBuild.160101.0800)C:\Windows\System32\WININET.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\ntshrui.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\srvcli.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\cscapi.dll
+		10.0.16299.936 (WinBuild.160101.0800)C:\Windows\System32\srpapi.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\WLDP.DLL
+		20.1.0.360                    C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\ielpview.dll
+		20.1.0.360                    C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\AsmHook.dll
+		14.16.27033.0 built by: vcwrkspcC:\windows\SYSTEM32\MSVCP140.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\DNSAPI.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\NSI.dll
+		20.1.0.360                    C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\VirFileSystemMng.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\rasadhlp.dll
+		20.1.0.360                    C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\VirPrivateProfiles.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\fwpuclnt.dll
+		10.0.16299.1480 (WinBuild.160101.0800)C:\windows\SYSTEM32\policymanager.dll
+		10.0.16299.371 (WinBuild.160101.0800)C:\windows\SYSTEM32\msvcp110_win.dll
+		14.8.3761.0 built by: NET48REL1C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\Accessibility\366b8df7af754afa0dbfb13f015da1f3\Accessibility.ni.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\msimtf.dll
+		3.10.349.0                    C:\Windows\System32\msls31.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\d2d1.dll
+		10.0.16299.1419 (WinBuild.160101.0800)C:\windows\SYSTEM32\d3d10warp.dll
+		10.0.16299.461 (WinBuild.160101.0800)C:\windows\SYSTEM32\Secur32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\MLANG.dll
+		4.8.4110.0 built by: NET48REL1LAST_BC:\windows\assembly\NativeImages_v4.0.30319_32\UIAutomationTypes\18120ebb02f388a0d013a47a9ddd9b1f\UIAutomationTypes.ni.dll
+		4.8.4110.0 built by: NET48REL1LAST_BC:\windows\assembly\NativeImages_v4.0.30319_32\UIAutomationProvider\b3d5e39660a9fc543e207d0980d69086\UIAutomationProvider.ni.dll
+		7.2.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\UIAutomationCore.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\Presentatio1c9175f8#\a03af892689d3d7a3deeef29de497145\PresentationFramework.Aero.ni.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\MsftEdit.DLL
+		7.2.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\oleacc.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\wtsapi32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\WINSTA.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\msctfui.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\system32\explorerframe.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\rasapi32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\rasman.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\rtutils.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\dhcpcsvc6.DLL
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\dhcpcsvc.DLL
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\WINNSI.DLL
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\Windows.Globalization.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\globinputhost.dll
+		23.20.16.5018                 C:\windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_65e812e45a6ecbef\igc32.dll
+		10.0.16299.1004 (WinBuild.160101.0800)C:\windows\SYSTEM32\D3DCOMPILER_47.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Build\87da877d2f44e28708cea5afc1b853b6\Microsoft.Build.ni.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\Microsoft.B3325a29b#\e05b5f89e0004df72889d092f6b300f4\Microsoft.Build.Framework.ni.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\coparamui.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\PathResolver.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\paramui.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\dtable32.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\parameng.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\MPR.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\is32.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\lr_vug32.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\mlib_ds.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\msg_handler.dll
+		24, 3, 0, 0                   C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\BCGCBPRO2430140.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\config.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\libxdrutil.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\COMDLG32.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\run_time_context.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\WINSPOOL.DRV
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\inifile.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\runlogic.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\vusercfg.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\MultiVuser.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\rtc_protocol.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\xdr.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\ODBC32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\DPAPI.DLL
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\comm_util.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\msimg32.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\paramlr.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\paramtbl.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\mmdtable.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\mmdbigtable.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\libmemmap.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\paramcst.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\paramunq.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\paramfnc.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\paramss.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\paramdte.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\paramvar.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\paramrnd.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\ArchiveManager.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\runlogicview.ocx
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\ParamUINotification.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\HP.LR.VuGen.ScriptHandlerComWrapper.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\lrscripthandler.DLL
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\webscripthandler.DLL
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebStepClsDesign.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebStepClsShared.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\mshtmtr.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\wraplwcrypto.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\DynWininet.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\LrXmlScriptHandler.DLL
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\ReplayBinaryUtils32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\WSOCK32.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\websteps_scripthandler.DLL
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\base_scripthandler.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\RICHED32.DLL
+		5.31.23.1231                  C:\windows\SYSTEM32\RICHED20.dll
+		10.0.16299.1504 (WinBuild.160101.0800)C:\windows\SYSTEM32\USP10.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebUIRes.DLL
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\webservice_scripthandler.DLL
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\ServiceManagementLight.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WSDLSDK.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\SoapRecordFilter.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebServicesSDK.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\LrJni.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\XmlParserInterface.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WSDLParser.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WSDLUtilsU.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WsCommonLogger.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\HttpUtils.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\ConfigurationUtil.dll
+		1, 11, 0, 0                   C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\Xalan-C_1_11.dll
+		3, 1, 2, 0                    C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\xerces-c_3_1.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\mic_regex.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WSDLToolkits.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\MicXMLDiffTool.dll
+		                              C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\XalanMessages_1_11.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\soap_scripthandler.DLL
+		4.8.3761.0                    C:\windows\assembly\NativeImages_v4.0.30319_32\Microsoft.CSharp\e7b0ff25c974070b1abb46bb18e94539\Microsoft.CSharp.ni.dll
+		4.8.3761.0                    C:\windows\assembly\NativeImages_v4.0.30319_32\System.Dynamic\93efb4bfba30715e75abe2c4829da5cf\System.Dynamic.ni.dll
+		0.22.0                        C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\NativeBinaries\x86\git2-a56db99.DLL
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\schannel.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\mskeyprotect.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\ncrypt.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\NTASN1.dll
+		10.0.16299.579 (WinBuild.160101.0800)C:\windows\system32\ncryptsslp.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\vugen_record_api.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\insp_gen.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\inspdll.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\pefile.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\wrapzlib.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\script_language_helper.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\HTTPSnapshotsWrapper.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\api_scrinfo.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\Api_Filter_Helper.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\unknown_only_helper.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\type_info_pool.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\CodeGenerationAPI.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\InternalSDKUtils.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\LRSDKUtilities.dll
+		                              C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebEventTrafficMap.dll
+		1.1.1b                        C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\libcrypto-lt-1_1.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\VuGenCallback.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\HP.LR.VuGen.LrVugHelper.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\TextContainer.dll
+		10.0.16299.785 (WinBuild.160101.0800)C:\windows\System32\coml2.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\traffic_filter.dll
+		                              C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\pcre-8.42.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\ipng_utils.dll
+		1.1.1b                        C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\libssl-lt-1_1.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\lrun50.dll
+		                              C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\duktape.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\merc_uuid.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\trans.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\faserver.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\JsonParser.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\trans_server.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\lr_exp.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\libdatatypes.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\data_types_ifs.dll
+		10.0.16299.91 (WinBuild.160101.0800)C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\dbghelp.dll
+		10.0.16299.91 (WinBuild.160101.0800)C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\dbgcore.DLL
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\timediff_ext.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\jrequestor_srv.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\dc_requests.dll
+		2020.1.0.173                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\threadsafefileoperator.dll
+		20.1.0.360                    C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\TulipAppInfo.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\JsonParserWrapper.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\MicSocket.dll
+		11.00.16299.15 (WinBuild.160101.0800)C:\Windows\System32\jscript9.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\vaultcli.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\apphelp.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\System32\UIAnimation.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\edputil.dll
+		10.0.16299.248 (WinBuild.160101.0800)C:\Windows\System32\Windows.StateRepositoryPS.dll
+		4.8.3928.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\SMDiagnostics\3d4b8761a673728050302447feac4086\SMDiagnostics.ni.dll
+		4.8.3928.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Servd1dec626#\f0171191a9084549b9707b32a9dec64b\System.ServiceModel.Internals.ni.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\Windows.ApplicationModel.dll
+		10.0.10011.16384              C:\windows\assembly\NativeImages_v4.0.30319_32\Windows.UI\661893cbdcd8f9977d431cc6f3b5c7da\Windows.UI.ni.dll
+		4.8.3761.0                    C:\windows\assembly\NativeImages_v4.0.30319_32\System.Runtbff93e24#\27a7c574e49bbf85fc8696c1142485cb\System.Runtime.InteropServices.WindowsRuntime.ni.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\twinapi.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Transactions\d647095902d2605ab089dc0073ddfcda\System.Transactions.ni.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+		4.8.3761.0 built by: NET48REL1C:\windows\assembly\NativeImages_v4.0.30319_32\System.Net.Http\2f5db456ef7e5e26e4a2dc945d2d5fe3\System.Net.Http.ni.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\api_inspector.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\trpfnc32.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\Windows\System32\cryptui.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\lrc_basic_filters.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\api_event_parser.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\api_sock_filter.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebDataFormatsCodeGen.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\DataFormatsEngine.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebSnapshotsCommon.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebSocketFilter.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\VnpLog.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\VnpUtils.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebHTMLCodeGen.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebRecorder.dll
+		                              C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\boost_system-vc140-mt-1_60.dll
+		2.9.0                         C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\cpprest140_2_9.dll
+		                              C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\boost_filesystem-vc140-mt-1_60.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\LrwiWebInfra.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\LrwiStreamingParser.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebCorrelation.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\jconv_str.dll
+		14.16.27033.0 built by: vcwrkspcC:\windows\SYSTEM32\CONCRT140.dll
+		10.0.16299.15 (WinBuild.160101.0800)C:\windows\SYSTEM32\HTTPAPI.dll
+		2020.1.0.282                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\http_auth.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\LrXml.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\LrJson.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\VnpReport.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebConvertFromFormattedFilter.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebConvertFromFormattedPostFilter.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebExtractServerNameFilter.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\lrc_com_filters.dll
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\WebRemoveLongBodyFilter.DLL
+		2020.1.0.438                  C:\Program Files (x86)\Micro Focus\Virtual User Generator\bin\lrc_code_gen_filter.dll

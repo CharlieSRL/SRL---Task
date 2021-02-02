@@ -1,0 +1,11 @@
+[t35]
+FileName1=t35.html
+URL1=https://update.googleapis.com/service/update2/json?cup2key=10:3500396163&cup2hreq=e53202c8ae70799805e5c77108b15d269c7bca9d019a1cd8ca5b9c78a0447c37
+Total=1
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=t35_RequestBody.txt
+ResponseHeaderFile=t35_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_35.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,14 @@
+POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard HTTP/1.1
+Host: accounts.google.com
+Connection: keep-alive
+Content-Length: 1
+Origin: https://www.google.com
+Content-Type: application/x-www-form-urlencoded
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: SID=wwfYkNPmwaF0HjxoGxI9gvFa5YSS3PdtLkZrGjGqxCsN9cOIkTnmJb3GxYU0EvWwSqDfPA.; __Secure-3PSID=wwfYkNPmwaF0HjxoGxI9gvFa5YSS3PdtLkZrGjGqxCsN9cOI90eb3Fgoodb39WYZbhJ30A.; HSID=AY9wpEL5UWxafWmIM; SSID=AQF2FeuT0r_0-1Q1F; APISID=-Q2uhRf1rGQkiVE5/AyU2irG3ubboOLzEO; SAPISID=2TeNTDO48WQqOvfq/AA4mIf750NtW4XCJr; __Secure-HSID=AY9wpEL5UWxafWmIM; __Secure-SSID=AQF2FeuT0r_0-1Q1F; __Secure-APISID=-Q2uhRf1rGQkiVE5/AyU2irG3ubboOLzEO; __Secure-3PAPISID=2TeNTDO48WQqOvfq/AA4mIf750NtW4XCJr; ACCOUNT_CHOOSER=AFx_qI6Q7JLyvs-SEyT-hhLzyU_Jb--5RuwsV-CqQC8jxBVx0-IexUj1SHEIhTMdUvl0D7t_d_8GoqgLv7AtIEiUM5GDwzrY64KI1YTV-6C9W7CTRFt-smPv5reHV-4B53-bNSuTcH1Y; SEARCH_SAMESITE=CgQI048B; LSID=doritos|o.gds.google.com|s.CR|s.youtube:wwfYkK4DTESxiIwbgzpJMRBlz-9A7dErQa4Jz-hfKO2x2FTZHI-1l9Nln_nF2HRStgN9uA.; __Host-3PLSID=doritos|o.gds.google.com|s.CR|s.youtube:wwfYkK4DTESxiIwbgzpJMRBlz-9A7dErQa4Jz-hfKO2x2FTZJTQrc8V9syB7i5AS5hgTpg.; ANID=AHWqTUnhwd2qn7SZpFHc5_FSMNJBmJ5PjgTRSZ7uQbMXxHEaPLupC61kxZlByRHf; GAPS=1:XKNK6fileGrZVvhfSCyq5rwp9q4s4kafUPg9Fi3Qrw12g4uwEMUVkDSwBwRy6h2X97f4aik6aS3gh9s0uBMsGmbjLcy84w:EUwFDseGui5GnYDs; __Host-GAPS=1:XKNK6fileGrZVvhfSCyq5rwp9q4s4kafUPg9Fi3Qrw12g4uwEMUVkDSwBwRy6h2X97f4aik6aS3gh9s0uBMsGmbjLcy84w:EUwFDseGui5GnYDs; 1P_JAR=2020-05-29-14; NID=204=rCmFKO0ZZXVaSngwZmdtlqJg1QijUX8xSRBDA8AIqxYMgT1xi6CykkTAtI6BT9WUU6wgF4XrIiqYPVX_Df6i7stlUi-nBXlcw2zKtflXAtk1ZuhS7xUFB7sdPjrTYmgkaOriU7vvJj8Soma2Pi5erwp6V-NVzqYswuNxUG8LvP7EEl8Uv93qqQ60DCO7S4JP9eGbmBXQ55jcfn4aQk67oeQCNcjnJLrgR4RzycSGSfpjrhichMaodjHrp7QjZm_wJjwS; SIDCC=AJi4QfEhqNuAHCfup4YDR7cmCSYsVc_M3Hc18_aLJ9BijUtTtjSIBIzkoG1IH_VtXpJQeHmQk8KI
+

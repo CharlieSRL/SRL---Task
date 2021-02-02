@@ -1,0 +1,2 @@
+"{\"logger\":\"bg.user.fetch.fail\",\"level\":\"WARN\",\"extra\":{\"json\":\"{}\"},\"applicatio"
+"n\":\"extensionChrome\",\"version\":\"14.959.0\",\"env\":\"prod\"}"

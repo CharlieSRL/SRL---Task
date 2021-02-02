@@ -1,0 +1,68 @@
+Virtual User Script started at: 5/29/2020 11:59:05 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2020.1.0 for Windows 10; build 438 (Mar 18 2020 11:53:41)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\mcarlosa\Documents\VuGen\Scripts\Advance Shopping\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_url("device-desc.xml") started  	[MsgId: MMSG-26355]
+Action.c(4): web_url("device-desc.xml") was successful, 1076 body bytes, 120 header bytes  	[MsgId: MMSG-26386]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(16): web_add_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(16): web_add_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(19): web_add_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(19): web_add_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(22): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(22): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(25): lr_think_time: 9.00 seconds.
+Action.c(27): web_custom_request("token") started  	[MsgId: MMSG-26355]
+Action.c(27): web_custom_request("token") was successful, 360 body bytes, 603 header bytes  	[MsgId: MMSG-26386]
+Action.c(38): web_add_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(38): web_add_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(41): web_add_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(41): web_add_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(44): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(44): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(47): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(47): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(50): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(50): Found resource "https://www.advantageonlineshopping.com/css/main.min.css" in HTML "https://www.advantageonlineshopping.com/"  	[MsgId: MMSG-26659]
+Action.c(50): Found resource "https://www.advantageonlineshopping.com/css/images/Down_arrow.svg" in HTML "https://www.advantageonlineshopping.com/"  	[MsgId: MMSG-26659]
+Action.c(50): Found resource "https://www.advantageonlineshopping.com/vendor/requirejs/require.js" in HTML "https://www.advantageonlineshopping.com/"  	[MsgId: MMSG-26659]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/favicon.ico" (specified by argument number 11)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/main.min.js" (specified by argument number 13)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/services.properties" (specified by argument number 15)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.google-analytics.com/analytics.js" (specified by argument number 17)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/logo.png" (specified by argument number 19)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/closeDark.png" (specified by argument number 21)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.google-analytics.com/r/collect?v=1&_v=j82&a=56843997&t=pageview&_s=1&dl=https%3A%2F%2Fwww.advantageonlineshopping.com%2F&dp=%2F&ul=en-us&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1536x864&vp=1536x722&je=0&_u=IEBAAEAB~&jid=1050170641&gjid=1120876286&cid=1443963958.1590774995&tid=UA-81334227-1&_gid=991534009.1590774995&_r=1&z=617974549" (specified by argument number 23)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1236" (specified by argument number 25)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1237" (specified by argument number 27)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1235" (specified by argument number 29)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1238" (specified by argument number 31)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/GoUp.png" (specified by argument number 33)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1234" (specified by argument number 35)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/Special-offer.jpg" (specified by argument number 37)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/facebook.png" (specified by argument number 39)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/linkedin.png" (specified by argument number 41)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/twitter.png" (specified by argument number 43)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/Popular-item2.jpg" (specified by argument number 45)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/Banner1.jpg" (specified by argument number 47)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/Banner2.jpg" (specified by argument number 49)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/Popular-item1.jpg" (specified by argument number 51)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/Popular-item3.jpg" (specified by argument number 53)  	[MsgId: MMSG-26577]
+Action.c(50): Downloading resource "https://www.advantageonlineshopping.com/css/images/Banner3.jpg" (specified by argument number 55)  	[MsgId: MMSG-26577]
+Action.c(50): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+Action.c(50): Aborting pending download of URL="https://www.advantageonlineshopping.com/css/images/Banner1.jpg" (RelFrameId=, Internal ID=25)  	[MsgId: MMSG-27649]
+Action.c(50): web_url("www.advantageonlineshopping.com") highest severity level was "ERROR", 1571634 body bytes, 10493 header bytes  	[MsgId: MMSG-26388]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

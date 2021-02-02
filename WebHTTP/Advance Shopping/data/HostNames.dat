@@ -1,0 +1,14 @@
+[hosts]
+192.168.100.38=
+clientservices.googleapis.com=
+www.googleapis.com=
+www.advantageonlineshopping.com=
+f-log-extension.grammarly.io=
+auth.grammarly.com=
+d27xxe7juh1us6.cloudfront.net=
+ssl.gstatic.com=
+www.gstatic.com=
+www.google-analytics.com=
+update.googleapis.com=
+content-autofill.googleapis.com=
+accounts.google.com=

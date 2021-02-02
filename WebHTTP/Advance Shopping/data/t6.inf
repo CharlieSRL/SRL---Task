@@ -1,0 +1,13 @@
+[t6]
+FileName1=t6.html
+URL1=https://auth.grammarly.com/v3/user/oranonymous?app=chromeExt
+Total=2
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_6.xml
+FileName2=t6_client_model_v5_variation_0.html
+URL2=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb
+[ProtocolInfo]
+ProtocolId=QTWeb

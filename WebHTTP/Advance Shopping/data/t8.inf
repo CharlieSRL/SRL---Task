@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8_dynamicConfig.html
+URL1=https://d27xxe7juh1us6.cloudfront.net/dynamicConfig.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

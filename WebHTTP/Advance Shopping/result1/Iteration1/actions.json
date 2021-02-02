@@ -1,0 +1,20 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: token",
+                "infFile": "t2.inf",
+                "time": 1590775155601
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: www.advantageonlineshopping.com",
+                "infFile": "t3.inf",
+                "time": 1590775275659
+            }
+        ],
+        "transactions": []
+    }
+]

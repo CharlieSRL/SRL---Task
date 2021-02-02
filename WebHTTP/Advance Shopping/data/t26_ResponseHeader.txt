@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 17:56:09 GMT
+Content-Type: application/json;charset=utf-8
+Content-Length: 960
+Connection: keep-alive
+Access-Control-Allow-Origin: chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen
+Vary: Origin
+Access-Control-Allow-Credentials: true
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'
+Strict-Transport-Security: max-age=31536000
+Cache-Control: max-age=0, no-store, no-cache
+X-Robots-Tag: noindex, nofollow
+

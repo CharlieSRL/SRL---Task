@@ -1,0 +1,18 @@
+POST /v3/user/oranonymous?app=chromeExt HTTP/1.1
+Host: auth.grammarly.com
+Connection: keep-alive
+Content-Length: 0
+x-csrf-token: AABH04xhHlkwJp++cdkT9crG/UYUlN9uW7gFAg
+x-client-type: extension-chrome
+x-client-version: 14.959.0
+x-container-id: nltlafi2iekk4o2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Accept: */*
+Origin: chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: gnar_containerId=nltlafi2iekk4o2; _ga=GA1.2.1498503526.1588637103; ga_clientId=1498503526.1588637103; _gcl_au=1.1.1443442737.1588637103; _fbp=fb.1.1588637103486.1031300251; _hjid=8d8ab2d9-167f-4345-aae2-cd8518fb2edf; tdi=lfcov3893wwuutq9; grauth=AABH04cKRmr8CNQ9Oq_cvF5QKHTIfb8vKBkw15drzc2KnQKSIRhNjS8NfPzGwUywecpP36c2-WmtAhCm; csrf-token=AABH04xhHlkwJp++cdkT9crG/UYUlN9uW7gFAg; experiment_groups=fluid_gdocs_rollout_enabled|gdocs_sidebar_onepercent_enabled|officeaddin_ue_exp3_enabled|extension_new_rich_text_fields_enabled|safari_migration_inline_disabled_enabled|officeaddin_upgrade_state_exp1_enabled1|officeaddin_outcomes_ui_exp5_enabled1|gdocs_for_chrome_enabled|quarantine_messages_enabled|apollo_rollout_gate_enabled_1|autocorrect_new_ui_v3|emogenie_beta_enabled|officeaddin_upgrade_state_exp2_enabled1|denali_link_to_kaza_enabled|gdocs_for_all_safari_enabled|safari_migration_backup_notif1_enabled|safari_migration_popup_editor_disabled_enabled|officeaddin_proofit_exp3_enabled|shadow_dom_sidebar_onepercent_enabled|gb_in_editor_free_Test1|safari_migration_inline_warning_enabled|send_email_premium_popup_aggressive_enabled|gdocs_for_all_firefox_enabled|gdocs_new_mapping_enabled|officeaddin_perf_exp3_enabled|officeaddin_muted_alerts_exp2_enabled1; K3bR7avmcR=K3bR7avmcR
+

@@ -1,0 +1,5 @@
+HTTP/1.1 200 OK
+Application-URL:http://192.168.100.38:8008/apps/
+Content-Length:1076
+Content-Type:application/xml
+

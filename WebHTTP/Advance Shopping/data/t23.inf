@@ -1,0 +1,13 @@
+[t23]
+FileName1=t23_dynamicConfig.html
+URL1=https://d27xxe7juh1us6.cloudfront.net/dynamicConfig.json
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_23.xml
+RequestHeaderFile=t23_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t23_ResponseHeader.txt
+FileName2=t23_client_model_v5_ext_variation_0.html
+URL2=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb
+[ProtocolInfo]
+ProtocolId=QTWeb
