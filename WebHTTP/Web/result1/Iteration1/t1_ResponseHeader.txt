@@ -1,0 +1,7 @@
+HTTP/1.0 200 OK
+Content-Type: application/x-ns-proxy-autoconfig
+pragma: no-cache
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 910
+
