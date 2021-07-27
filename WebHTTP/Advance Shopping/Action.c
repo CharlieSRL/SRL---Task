@@ -22,7 +22,7 @@ Action()
 	web_add_auto_header("Sec-Fetch-Site", 
 		"none");
 
-	lr_think_time(9);
+	lr_think_time(10);
 
 	web_custom_request("token", 
 		"URL=https://www.googleapis.com/oauth2/v4/token", 
@@ -396,7 +396,7 @@ Action()
 	web_add_auto_header("Sec-Fetch-Site", 
 		"same-origin");
 
-	lr_think_time(18);
+	lr_think_time(19);
 
 	web_custom_request("email", 
 		"URL=https://www.advantageonlineshopping.com/catalog/api/v1/support/contact_us/email", 
